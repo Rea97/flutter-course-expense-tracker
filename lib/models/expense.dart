@@ -13,7 +13,7 @@ class Expense {
 
   final double amount;
 
-  final String category;
+  final Category category;
 
   Expense({
     required this.title,
